@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;1,400;1,700&display=swap');
+
+
+body {
+    background: #58B557;
+}
+
+body .html {
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    background-color: white;
+    height: 100%;
+    font-weight: 700;
+}
+
+
+.card-title {
+    position: absolute;
+    width: 437px;
+    height: 128px;
+    left: 300px;
+
+}
+
+.card-subtitle {
+    left: 31px;
+    right: 474px;
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+
+}
+
+.container {
+    margin-top: 100px;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-form {
+    height: 500px;
+    width: 677px;
+    padding: 0 35px;
+    background-color: white;
+    font-weight: 700;
+    background: linear-gradient(152.97deg, rgba(255, 255, 255, 0.24) 0%, rgba(255, 255, 255, 0) 100%);
+    backdrop-filter: blur(21px);
+    border-radius: 15px;
+}
+
+
+.form-label {
+    margin-top: 0px;
+}
+
+input[type="email"],
+input[type="password"] {
+    border-radius: 10px;
+}
+
+.btn-login {
+    height: 40px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.link {
+    text-decoration: none;
+    margin-left: 290px;
+}
+
+.mt-2 {
+    margin-left: 170px;
+}

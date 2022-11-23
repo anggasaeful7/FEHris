@@ -1,0 +1,173 @@
+@import url(https://fonts.googleapis.com/css?family=Laila&display=swap);
+
+body {
+  background: linear-gradient(0deg, black, #58b557 49%), #58b558;
+}
+
+input {
+  text-align: center
+}
+
+.e1_2 {
+  overflow: hidden;
+}
+.e1_2 {
+  background: linear-gradient(0deg, black, #58b557 49%), #58b558;;
+  width: 1350px;
+  height: 982px;
+  position: absolute;
+}
+
+.e170_289 {
+  background-color: linear-gradient(0deg, black, #58b557 49%), #58b558;;
+  width: 1350px;
+  height: 982px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.e1_4 {
+  position: absolute;
+  top: calc(50% - 178px);
+  left: calc(50% + 324px);
+  border-radius: 1px solid rgba( 255, 255, 255, 0.18 );
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(4px);
+  box-shadow: 0px 0px 6px 3px rgba( 31, 38, 135, 0.37 );
+  width: 355px;
+  height: 648px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+
+.e3_5 {
+  background-color: rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+  width: 424px;
+  height: 62px;
+  position: absolute;
+  left: 463px;
+  top: 358px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  font-size: larger;
+  font-family: 'Laila', sans-serif;
+}
+
+.e3_8 {
+  background-color: rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+  width: 349px;
+  height: 62px;
+  position: absolute;
+  left: 463px;
+  top: 460px;
+font-family: 'Laila', sans-serif;
+  font-size: larger;
+}
+
+.e3_7 {
+  color: rgba(112.04062834382057, 146.714246571064, 235.87500303983688, 1);
+  width: 247px;
+  height: 62px;
+  position: absolute;
+  left: 552px;
+  top: 358px;
+  font-family: Laila;
+  text-align: center;
+  font-size: 36px;
+  letter-spacing: 0;
+}
+
+.e3_9 {
+  color: rgba(112.04062834382057, 146.714246571064, 235.87500303983688, 1);
+  width: 248px;
+  height: 62px;
+  position: absolute;
+  left: 552px;
+  top: 460px;
+  font-family: Laila;
+  text-align: center;
+  font-size: 36px;
+  letter-spacing: 0;
+}
+
+.e3_10 {
+  box-shadow: 9px 12px 5px rgba(0, 0, 0, 0.20000000298023224);
+  background-color: rgba(46.75000101327896, 42.500005066394806, 255, 1);
+  width: 424px;
+  height: 62px;
+  position: absolute;
+  left: 463px;
+  top: 562px;
+
+}
+
+.e3_11 {
+  color: rgba(255, 255, 255, 1);
+  width: 247px;
+  height: 62px;
+  position: absolute;
+  left: 552px;
+  top: 562px;
+  font-family: Laila;
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 0;
+}
+
+.toggle {
+  position: absolute;
+  top: 50%;
+  right: 469px;
+  translate: 0 -50%;
+  width: 50px;
+  height: 50px;
+  background-image: url("Vector1.svg");
+  background-size: 85%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
+
+.toggle.showing {
+  background-image: url("Vector.svg");
+  background-color: transparent;
+}
+
+.title {
+  position: absolute;
+  top: 18.100%;
+  /* right: 10em; */
+  text-align: center;
+  transform: translate(12.2em, -50%);
+  font-size: 50px;
+  font-family: 'Laila', sans-serif;
+  color: rgb(0, 0, 0);
+}
+
+::placeholder {
+  text-align: center;
+  font-family: 'Laila', sans-serif;
+}
+
+::-webkit-input-placeholder {
+  text-align: center;
+  font-family: 'Laila', sans-serif;
+}
+
+:-moz-placeholder {
+  text-align: center;
+  font-family: 'Laila', sans-serif;
+}
+
+::-moz-placeholder {
+  text-align: center;
+  font-family: 'Laila', sans-serif;
+}
+
+:-ms-input-placeholder {
+  font-family: 'Laila', sans-serif;
+  text-align: center;
+}
